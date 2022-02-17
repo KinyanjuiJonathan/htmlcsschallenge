@@ -1,0 +1,57 @@
+.PricingContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.lowerclass{
+    display: flex;
+}
+.topHead{
+    width: 40%;
+}
+.Free{
+    background-color: white;
+    color: black;
+    border: 1px solid;
+    border-color: aqua;
+    padding: 20px;
+
+}
+.Standard{
+    background-color: rgb(4, 4, 43);
+    color: white;
+    border: 1px solid;
+    border-color: aqua;
+    padding: 20px;
+
+}
+.Premium{
+    background-color: white;
+    color: black;
+    border: 1px solid;
+    border-color: aqua;
+    padding: 20px;
+}
+.bluebutton{
+    padding: 10px;
+    background-color: skyblue;
+    border-radius: 8px;
+    width: 150px;
+    border:0;
+    
+}
+.lowerclass{
+    background-color: aqua;
+    height: 100%;
+}
+.Free{
+    
+}
+.lowerclass button{
+    width: ;
+}
+.checkingBox{
+    display: flex;
+    flex-direction: column;
+}

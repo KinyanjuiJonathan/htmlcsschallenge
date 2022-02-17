@@ -1,0 +1,72 @@
+.ratecards{
+    display: flex;
+    align-self: center;
+    align-content: center;
+    justify-content: space-evenly;
+    gap: 50px;
+    height: 300px;
+    width: 800px;
+  
+
+}
+.ratecardscontainer{
+    display: flex;
+    flex-direction: column;
+}
+.ratecards img{
+    height: 120px;
+    padding-top:30px ;
+}
+.firstrate{
+    border: gray solid 1px;
+    
+}
+.secondrate{
+    border: gray solid 1px;
+}
+.thirdrate{
+    border: gray solid 1px;
+}
+.ratecards checked{
+    color: orange;
+    display: flex;
+   
+}
+.ratecardpics{
+    padding-top: 100px;
+   display: flex;
+   height: 30px;
+   width: 100%;
+   display: flex;
+   gap: 100px;
+   padding-bottom: 30px;
+   
+}
+.ratecardpics img{
+   height: 30px;   
+   
+}
+.Subscribe{
+    background: linear-gradient(to right, blue , rgb(187, 68, 147));
+    display: flex;
+    justify-content: space-between;
+    color:white;
+    height: 70px;
+    align-content: center
+}
+.SubscribeLeft{
+   padding-left: 30px ;
+   width: 20%;
+}
+.SubscribeRight{
+    padding-top:20px;
+    padding-right: 20px;
+    border-radius: 20px;
+    height: 20px;
+}
+.SubscribeRight button{
+    background-color: skyblue;
+    color: white;
+    border: 0;
+    height: 20px;
+}

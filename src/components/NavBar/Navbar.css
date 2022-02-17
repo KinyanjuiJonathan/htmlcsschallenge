@@ -1,0 +1,14 @@
+.NavContainer{
+    display: flex;
+    color: white;
+    justify-content: space-between;
+}
+.NavSecond btn{
+padding: 10px;
+}
+.NavThird btn{
+    padding:10px;
+}
+.bluebtn{
+    border-radius: 20px;
+}

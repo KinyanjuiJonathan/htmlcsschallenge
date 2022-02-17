@@ -1,0 +1,25 @@
+
+
+.contactTop{
+    display: flex;
+    padding: 30px;
+    color: white;
+    background-color: navy;
+    margin-top: 30px;
+}
+.rightContact{
+    
+}
+.rightContact img{
+    height: 200px;
+}
+.LeftContact{
+    width: 40%;
+    
+}
+.BookAppointment{
+    display: flex;
+}
+.leftContactPic img{
+    height: 400px;
+}
